@@ -1,1 +1,2 @@
 Sem patří použité prompty
+ - how to make the boomid appear once the kockaid collide with raketaid
